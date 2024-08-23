@@ -1,10 +1,11 @@
 # EXECUTION-OF-LOGIC-GATES-USING-PLC-LADDER-PROGRAM
 
 
- # NAME :
- # REGISTER NUMBER :
- # DEPARTMENT 
- # YEAR 
+ ### NAME : SURIYA M
+ ### REGISTER NUMBER : 212223110055
+ ### DEPARTMENT : CSE(IOT)
+ ### DATE : 23-08-2024
+ 
 
  
 # Aim:
@@ -49,7 +50,20 @@ XOR Gate:
 Function: Outputs HIGH when an odd number of inputs are HIGH.
 Ladder Logic: Represented by a combination of AND, OR, and NOT gates.
 # Truth Tables:
- 
+
+## AND GATE:
+ ![image](https://github.com/user-attachments/assets/4b04f534-837c-42c5-870c-b51e5831dcf2)
+## OR GATE:
+![image](https://github.com/user-attachments/assets/696ec9b8-031f-473b-9325-5f6a4e8b9e43)
+## NOT GATE:
+![image](https://github.com/user-attachments/assets/a51fa6ea-1d79-4a8d-a766-5df39604ea13)
+## NAND GATE:
+![image](https://github.com/user-attachments/assets/d54b1cec-cd87-4520-8298-81ae34535273)
+## NOR GATE:
+![image](https://github.com/user-attachments/assets/e86706c7-78db-4dbb-8de5-4164687aa3d5)
+## XOR GATE:
+![image](https://github.com/user-attachments/assets/70ff51cc-a42e-4f0b-a4ef-8637e129a2ba)
+
 # Procedure:
 Setup the PLC Programming Environment:
 
@@ -80,8 +94,20 @@ XOR Gate: The output should light up when exactly one input is HIGH.
 
 # SIMULATION RESULTS 
 
+## AND GATE:
+![image](https://github.com/user-attachments/assets/d1b8313e-1d50-4eb8-8f63-07211b9d7f79)
+## OR GATE:
+![image](https://github.com/user-attachments/assets/42188f49-e31c-4314-a807-3888817c6340)
+## NAND GATE:
+![image](https://github.com/user-attachments/assets/74a34183-f045-441d-8dc4-2fd5ee31bd12)
+## NOT GAATE:
+![image](https://github.com/user-attachments/assets/3f2129a1-1718-4d05-837b-ccdbbf1f7c00)
+## NOR GATE:
+![image](https://github.com/user-attachments/assets/b7612b1f-ba70-482c-8cf5-5dfa09bfd3d5)
+## XOR GATE:
+![image](https://github.com/user-attachments/assets/00082bcb-dfed-422b-a1d4-406d70a86435)
 
-#Results:
+# Results:
 The ladder logic programs for each logic gate were successfully implemented and simulated.
 The outputs observed matched the expected results as per the truth tables of the respective logic gates.
 This experiment demonstrates the effective use of PLCs in executing digital logic operations, which are fundamental to industrial control systems.
